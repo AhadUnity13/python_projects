@@ -1,4 +1,5 @@
-#In this I am learning how to import an external module. For example, I learned to import randint from random.
+#In this I am learning how to import an external module and made the game harder by only having 3 tries using while loops and if statements. 
+#For example, I learned to import randint from random.
 
 from random import randint
 
